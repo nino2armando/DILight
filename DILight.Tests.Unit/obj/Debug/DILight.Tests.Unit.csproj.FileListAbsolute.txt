@@ -1,0 +1,11 @@
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\obj\Debug\DILight.Tests.Unit.csprojResolveAssemblyReference.cache
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\bin\Debug\DILight.Tests.Unit.dll
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\bin\Debug\DILight.Tests.Unit.pdb
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\bin\Debug\DILight.dll
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\bin\Debug\nunit.framework.dll
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\bin\Debug\Rhino.Mocks.dll
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\bin\Debug\DILight.pdb
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\bin\Debug\nunit.framework.xml
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\bin\Debug\Rhino.Mocks.xml
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\obj\Debug\DILight.Tests.Unit.dll
+c:\Users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight.Tests.Unit\obj\Debug\DILight.Tests.Unit.pdb

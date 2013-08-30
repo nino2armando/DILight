@@ -1,0 +1,4 @@
+c:\users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight\bin\Debug\DILight.dll
+c:\users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight\bin\Debug\DILight.pdb
+c:\users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight\obj\Debug\DILight.dll
+c:\users\nkhodabandeh\documents\visual studio 2012\Projects\DILight\DILight\obj\Debug\DILight.pdb
